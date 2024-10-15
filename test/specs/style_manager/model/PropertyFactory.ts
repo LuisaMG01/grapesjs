@@ -306,12 +306,9 @@ describe('PropertyFactory', () => {
       options: [
         { label: 'Arial', id: 'Arial, Helvetica' + ss },
         { label: 'Arial Black', id: 'Arial Black, Gadget' + ss },
-        { label: 'Brush Script MT', id: 'Brush Script MT' + ss },
         { label: 'Comic Sans MS', id: 'Comic Sans MS, cursive' + ss },
-        { label: 'Courier New', id: 'Courier New, Courier' + ms },
         { label: 'Georgia', id: 'Georgia, serif' },
         { label: 'Helvetica', id: 'Helvetica' + ss },
-        { label: 'Impact', id: 'Impact, Charcoal' + ss },
         {
           label: 'Lucida Sans Unicode',
           id: 'Lucida Sans Unicode, Lucida Grande' + ss,
